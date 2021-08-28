@@ -19,7 +19,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ##### MEDICIONES FIGURA 1
 
 **0 Hz**
-![image](https://user-images.githubusercontent.com/84586968/131201782-b4e74fa0-01ca-4c8f-8c98-944b08045bc6.png)
+##### ![image](https://user-images.githubusercontent.com/84586968/131201782-b4e74fa0-01ca-4c8f-8c98-944b08045bc6.png)
 ![image](https://user-images.githubusercontent.com/84586968/131201842-7addc4ef-bfbc-404f-8b3d-38efe9c5c94f.png)
 ![fig1_2](https://user-images.githubusercontent.com/84586968/131202077-d69d9de5-2da3-4c4e-bab8-63c34b7728ab.PNG)
 
@@ -52,6 +52,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![image](https://user-images.githubusercontent.com/84586968/131230482-2e87a9bf-66a2-4d4d-85f7-0009f316c7e2.png)
 ![image](https://user-images.githubusercontent.com/84586968/131230361-1b29af75-64b4-4f32-8b1e-9c5f03289a08.png)
 ![fig1_12](https://user-images.githubusercontent.com/84586968/131230486-0ba82b43-a109-4305-a780-b0931e9988b4.PNG)
+
+##### MEDICIONES FIGURA 2
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
