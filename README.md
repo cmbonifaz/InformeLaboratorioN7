@@ -23,6 +23,10 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **10 Hz**
 
+![image](https://user-images.githubusercontent.com/84586968/131202317-bf47e121-1612-420f-9db0-8dd9d25d2dba.png)
+![image](https://user-images.githubusercontent.com/84586968/131202333-10f5865f-eb15-4209-86b1-915807958cd2.png)
+![fig1_4](https://user-images.githubusercontent.com/84586968/131202336-1fc097d3-13dc-4c00-a674-4238c68b5624.PNG)
+
 **50 Hz**
 
 **100 Hz**
