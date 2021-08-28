@@ -89,7 +89,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 ![image](https://user-images.githubusercontent.com/84586968/131231030-6693726a-9e7b-4044-8d42-451796c8d397.png)
 ![image](https://user-images.githubusercontent.com/84586968/131231595-ae1a74a2-053f-4324-bc31-3d607df482fd.png)
-![image](https://user-images.githubusercontent.com/84586968/131231834-650e84fb-6714-4697-b3b7-736807462776.png)
+![image](https://user-images.githubusercontent.com/84586968/131231994-d759d84a-d38d-4a7e-8ec4-fa4736ad2149.png)
 
 
 
