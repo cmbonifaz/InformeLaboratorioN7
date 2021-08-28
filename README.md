@@ -35,15 +35,21 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **100 Hz**
 
+![image](https://user-images.githubusercontent.com/84586968/131230425-17539598-8963-4079-8d86-ad26c01771c2.png)
 ![image](https://user-images.githubusercontent.com/84586968/131230308-2dec2ce7-b6cf-4bdc-811a-8a8d0a557f59.png)
+![fig1_8](https://user-images.githubusercontent.com/84586968/131230436-7beebf7d-d001-4919-bd57-9a5de495fccc.PNG)
 
 **500 Hz**
 
+![image](https://user-images.githubusercontent.com/84586968/131230455-779bd936-c274-4cf1-b4eb-a5cef6050a5b.png)
 ![image](https://user-images.githubusercontent.com/84586968/131230346-c5bc4d66-3b96-43c1-816d-b190709befac.png)
+![fig1_10](https://user-images.githubusercontent.com/84586968/131230456-c769213d-5bbf-45b7-b133-814b72b67775.PNG)
 
 **1000 Hz**
 
+![image](https://user-images.githubusercontent.com/84586968/131230482-2e87a9bf-66a2-4d4d-85f7-0009f316c7e2.png)
 ![image](https://user-images.githubusercontent.com/84586968/131230361-1b29af75-64b4-4f32-8b1e-9c5f03289a08.png)
+![fig1_12](https://user-images.githubusercontent.com/84586968/131230486-0ba82b43-a109-4305-a780-b0931e9988b4.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
