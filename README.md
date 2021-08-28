@@ -112,8 +112,33 @@ Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
 
 #### 4. ANALSIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
+4.1 Analisis del problema
+
 ![image](https://user-images.githubusercontent.com/84586968/131232033-50fa8b51-3a5b-4bc2-a2b5-0b88fdfbdfb0.png)
 ![image](https://user-images.githubusercontent.com/84586968/131232036-f69ad712-2a95-4012-a303-97078ab51741.png)
+
+4.2 Preguntas
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+    El capacitor al cargarse no permite el paso de la corriente
+    
+    La bobina al ser la corrinte continua por lo que no varia en el tiempo por lo que no hay autoinduccion
+    
+    Ambos se comportan como un cortocircuito
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+    El capacitador al estar conectado en un CA sinoidal se carga y descarga tantantas veces varia la tension
+    
+    En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion
+    
+    la corriente varia por lo que hay autoinduccion
+
+3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los 
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores 
+distintos?        
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 #### 5. VIDEO
 
