@@ -112,12 +112,12 @@ Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
 
 #### 4. ANALSIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
-4.1 Analisis del problema
+**4.1 Analisis del problema
 
 ![image](https://user-images.githubusercontent.com/84586968/131232033-50fa8b51-3a5b-4bc2-a2b5-0b88fdfbdfb0.png)
 ![image](https://user-images.githubusercontent.com/84586968/131232036-f69ad712-2a95-4012-a303-97078ab51741.png)
 
-4.2 Preguntas
+**4.2 Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
