@@ -24,6 +24,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 3. MATERIALES
 
+![image](https://user-images.githubusercontent.com/84586968/131233388-95c17223-a90d-4216-b3b3-88bac370e478.png)
+
 #### 4. PROCEDIMIENTO
 
 ##### MEDICIONES FIGURA 1
