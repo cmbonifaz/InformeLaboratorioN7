@@ -12,11 +12,23 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS 
 
-#### 2. MARCO TEÓRICO 
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
 
-#### 3. EXPLICACIÓN DEL PROCEDIMIENTO
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC. 
+
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores. 
+
+- Familiarizarse con el uso de instrumentos de medida.
+
+#### 2. MARCO TEÓRICO
+
+#### 3. MATERIALES
+
+#### 4. PROCEDIMIENTO
 
 ##### MEDICIONES FIGURA 1
+
+Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
 
 **0 Hz**
 ![image](https://user-images.githubusercontent.com/84586968/131201782-b4e74fa0-01ca-4c8f-8c98-944b08045bc6.png)
@@ -54,6 +66,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![fig1_12](https://user-images.githubusercontent.com/84586968/131230486-0ba82b43-a109-4305-a780-b0931e9988b4.PNG)
 
 ##### MEDICIONES FIGURA 2
+
+Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
 
 **0 Hz**
 
@@ -96,10 +110,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 
 
-#### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+#### 4. ANALSIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
 ![image](https://user-images.githubusercontent.com/84586968/131232033-50fa8b51-3a5b-4bc2-a2b5-0b88fdfbdfb0.png)
 ![image](https://user-images.githubusercontent.com/84586968/131232036-f69ad712-2a95-4012-a303-97078ab51741.png)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES
