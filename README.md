@@ -126,16 +126,16 @@ La bobina al ser la corrinte continua por lo que no varia en el tiempo por lo qu
 Ambos se comportan como un cortocircuito
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-El capacitador al estar conectado en un CA sinoidal se carga y descarga tantantas veces varia la tension  
+El capacitador al estar conectado en un CA sinoidal se carga y descarga ttantas veces varia la tension  
 En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion
 la corriente varia por lo que hay autoinduccion
-
 
 3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los 
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores 
 distintos?        
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+Es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 #### 5. VIDEO
 
