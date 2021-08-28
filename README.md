@@ -119,7 +119,7 @@ Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
 
 4.2 Preguntas
 
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
     El capacitor al cargarse no permite el paso de la corriente
     
     La bobina al ser la corrinte continua por lo que no varia en el tiempo por lo que no hay autoinduccion
@@ -133,6 +133,7 @@ Se procede a medir Vp, Vo y la I con las siguientes frecuencias:
     En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion
     
     la corriente varia por lo que hay autoinduccion
+
 
 3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los 
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores 
