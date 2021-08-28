@@ -16,6 +16,10 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+0 Hz
+
+![image](https://user-images.githubusercontent.com/84586968/131201782-b4e74fa0-01ca-4c8f-8c98-944b08045bc6.png)
+
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 #### 5. VIDEO
