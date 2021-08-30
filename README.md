@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** 
+**Tema:** INDUCTOR Y CAPACITOR
 
 #### 1. OBJETIVOS 
 
@@ -21,6 +21,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 - Familiarizarse con el uso de instrumentos de medida.
 
 #### 2. MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/85208164/131404035-d16be488-b547-4f29-b4be-c22c075d82a0.png)
 
 #### 3. MATERIALES
 
