@@ -146,6 +146,8 @@ Es el valor que tendría una corriente continua que produjera la misma potencia 
 
 #### 5. VIDEO
 
+[Simulación de Circuito - Laboratorio N°7](https://youtu.be/2LPDnnvfnT4 "Simulación de Circuito - Laboratorio N°7")
+
 #### 6. CONCLUSIONES
 
 #### 7. BIBLIOGRAFÍA
