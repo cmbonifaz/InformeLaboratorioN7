@@ -164,3 +164,8 @@ Es el valor que tendría una corriente continua que produjera la misma potencia 
 
 
 #### 7. BIBLIOGRAFÍA
+
+Fundamentos de Circuitos Eléctricos. Inductor y Capacitor, Charles K. Alexander y Matthew N. O. Sadiku. McGraw-Hill Companies, Inc.
+
+ANÁLISIS DE CIRCUITOS EN INGENIERÍA, Inductor y Capacitor. W.H. Hayt. Ed. McGraw-Hill, 1993.
+
