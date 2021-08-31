@@ -152,4 +152,15 @@ Es el valor que tendría una corriente continua que produjera la misma potencia 
 
 #### 6. CONCLUSIONES
 
+•	Es posible representar la impedancia para cada una de las frecuencias asociadas en los dos circuitos como un número complejo donde predomina en un caso la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc). 
+
+•	Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos. 
+
+•	El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+
+•	Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
+
+•	Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
+
+
 #### 7. BIBLIOGRAFÍA
