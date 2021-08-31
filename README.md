@@ -143,6 +143,10 @@ la corriente varia por lo que hay autoinduccion
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores 
 distintos?        
 
+Lo único que sucedería es que los valores de Vₒ varíen en función de valores de Vₒ varíen en función de que tanto se altere laque tanto se altere laimpedanciaimpedancia X  X del valor total de impedanciadel valor total de impedancia 
+Z =  R+ jX  
+Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ seríaSi la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ seríamenor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 Es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
