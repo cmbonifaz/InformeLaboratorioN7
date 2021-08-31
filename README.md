@@ -135,6 +135,7 @@ La bobina al ser la corrinte continua por lo que no varia en el tiempo por lo qu
 Ambos se comportan como un cortocircuito
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
 El capacitador al estar conectado en un CA sinoidal se carga y descarga ttantas veces varia la tension  
 En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion
 la corriente varia por lo que hay autoinduccion
@@ -148,6 +149,7 @@ Z =  R+ jX
 Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ seríaSi la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ seríamenor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
 Es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 #### 5. VIDEO
